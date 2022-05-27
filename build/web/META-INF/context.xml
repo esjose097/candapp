@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resourse name="myds" auth="Container" type="javax.sql.DataSource" maxActive="50" maxIdle="20"
+maxWait="10000" username="root" password="1234" driverClassName="com.mysql.jdbc.Driver"
+url="jdbc:mysql://localhost3306/mydb"/>
+<Context path="/candapp"/>
